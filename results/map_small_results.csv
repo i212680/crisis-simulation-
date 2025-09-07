@@ -1,0 +1,10 @@
+seed,provider,strategy,map,rescued,deaths,avg_rescue_time,fires_extinguished,roads_cleared,energy_used,tool_calls,invalid_json,replans,hospital_overflow_events,crisis_score
+1000,mock,react,map_small,7,7,8.142857142857142,10,0,110,200,0,0,0,6.0
+1001,mock,react,map_small,7,8,9.428571428571429,10,0,102,200,0,0,0,4.799999999999999
+1002,mock,react,map_small,6,8,10.5,10,0,108,200,0,0,0,1.1999999999999993
+1000,mock,react_reflexion,map_small,7,7,8.142857142857142,10,0,110,200,0,0,0,6.0
+1001,mock,react_reflexion,map_small,7,8,9.428571428571429,10,0,102,200,0,0,0,4.799999999999999
+1002,mock,react_reflexion,map_small,6,8,10.5,10,0,108,200,0,0,0,1.1999999999999993
+1000,mock,react,map_small,7,7,8.142857142857142,10,0,110,200,0,0,0,6.0
+1001,mock,react,map_small,7,8,9.428571428571429,10,0,102,200,0,0,0,4.799999999999999
+1002,mock,react,map_small,6,8,10.5,10,0,108,200,0,0,0,1.1999999999999993

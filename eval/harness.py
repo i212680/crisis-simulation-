@@ -1,8 +1,11 @@
 \
-import argparse, os, json, csv
+import argparse, os, json, csv, sys
 from pathlib import Path
 from tqdm import trange
-from ..main import run_episode
+
+# Add parent directory to path to import main
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from main import run_episode
 
 def main():
     ap = argparse.ArgumentParser()
